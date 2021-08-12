@@ -143,7 +143,7 @@
     </section>
 </section>
 <div class="footer" align="center">
-    FlyAway by Abhinov Gogoi
+    Developed by Ariful
 </div>
 </body>
 </html>

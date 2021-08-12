@@ -22,7 +22,7 @@
         .bgimg-1 {
             background-position: center;
             background-size: cover;
-            background-image: url("img/plane.png");
+            background-image: url("img/airplane-plane.png");
             min-height: 100%;
         }
         .w3-bar .w3-button {
@@ -54,6 +54,7 @@
                 <div class="form-group">
                     <label for="source">Source</label>
                     <select  class="form-control" id="source" name="source">
+                        <option value="India">Bangladesh</option>
                         <option value="India">India</option>
                         <option value="USA">USA</option>
                         <option value="UK">UK</option>
@@ -65,6 +66,7 @@
                         <option value="USA">USA</option>
                         <option value="UK">UK</option>
                         <option value="India">India</option>
+                        <option value="USA">Bangladesh</option>
                     </select>
                 </div>
                 <div>
@@ -75,6 +77,7 @@
                         <option value="3">3</option>
                         <option value="4">4</option>
                         <option value="5">5</option>
+
                     </select>
                 </div>
                 <br>
@@ -84,7 +87,7 @@
     </section>
 </section>
 <div class="footer" align="center">
-    FlyAway by Abhinov Gogoi
+    Developed by Ariful
 </div>
 </body>
 </html>

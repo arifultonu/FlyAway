@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Add a new Flight - FlyAway Airlines</title>
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/style/global.css">
+    <title>Past Bookings - FlyAway Airlines</title>
     <link rel = "shortcut icon" type = "image/png" href = "img/favicon.png" >
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
@@ -37,9 +36,11 @@
     </div>
 </div>
 <div class="container">
-    <h2 align="center"><span><strong>Add a new Flight</strong></span></h2>
+    <h2 align="center"><span><strong>Past Bookings</strong></span></h2>
     <br>
-    <p align="center"><span><strong>Coming Soon</strong></span></p><br>
+    <p align="center"><span><strong>Showing all bookings</strong></span></p><br>
 </div>
+    <h3 align="center"><span><strong>Coming Soon</strong></span></h3><br>
+
 </body>
 </html>

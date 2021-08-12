@@ -34,7 +34,7 @@
         .bgimg-1 {
             background-position: center;
             background-size: cover;
-            background-image: url("img/plane.png");
+            background-image: url("img/airplane-plane.png");
             min-height: 100%;
         }
         .w3-bar .w3-button {
@@ -77,7 +77,7 @@
     </section>
 </body>
 <div class="footer" align="center">
-    FlyAway by Abhinov Gogoi
+    Developed by Ariful
 </div>
 </html>
 <%
