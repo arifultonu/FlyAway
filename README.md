@@ -1,5 +1,6 @@
 # FlyAway
- An Airline Booking Portal
+ An Airline Booking Portal Developed By Md. Ariful Islam.
  
- Admin User: admin@flyaway.com
-   Password: Admin
+  Admin Login >
+  User: admin@flyaway.com
+  Password: Admin
